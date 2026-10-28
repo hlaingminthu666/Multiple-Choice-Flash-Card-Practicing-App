@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Multiple Choice Flash Cards V2.1",
+  "name": "Multiple Choice Flash Cards V2.2",
   "short_name": "MC Cards",
-  "description": "Multiple Choice Flash Card Practicing App: CSV/Excel questions, pictures, math notation, works offline.",
+  "description": "Multiple Choice Flash Card Practicing App: CSV/Excel questions, pictures, math notation, audio player, works offline.",
   "lang": "my",
   "start_url": "./",
   "scope": "./",

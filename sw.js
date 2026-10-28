@@ -1,7 +1,7 @@
 /* Multiple Choice Flash Cards: service worker
    UPDATE RULE: every time you upload a new index.html to GitHub, change VERSION below
    (e.g. "2.1.1", "2.2"). That is what tells phones/PCs that a new version exists. */
-const VERSION = "2.1.0";
+const VERSION = "2.2.0";
 const PREFIX = "mcq-flashcards-";
 const APP_CACHE = PREFIX + "app-" + VERSION;
 const FONT_CACHE = PREFIX + "fonts-v1";
